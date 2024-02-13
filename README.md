@@ -1,5 +1,5 @@
 # Matt-Caraher
-A hub for my code that is allowed to be public facing
+A list of my recent code that is allowed to be public facing
 
 ## [Big Z Soundwave Widget](https://github.com/mattcar265/BigZCodeSnippets)
 ### A widget to display soundwaves on Spotify sites, created using the liquid language , which is a Shopify language combining HTML/CSS and JS
