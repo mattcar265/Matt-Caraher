@@ -3,7 +3,7 @@ A list of my recent code that is allowed to be public facing<br><br><br>
 
 ## [Big Z Soundwave Widget](https://github.com/mattcar265/BigZCodeSnippets)
 ### A widget to display soundwaves on Spotify sites, created using the liquid language
-<img src="https://github.com/mattcar265/Matt-Caraher/assets/98040867/e1f9af17-4418-4971-99f2-e8f1545bac83" width="800">
+<img src="https://github.com/mattcar265/Matt-Caraher/assets/98040867/8713e09d-b603-4853-a2eb-10c433d59dcd" width="800">
 
 Liquid is a Shopify language combining HTML/CSS and JS<br><br><br>
 
