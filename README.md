@@ -1,6 +1,10 @@
 # Matt-Caraher
 A hub for my code that is allowed to be public facing
 
+## Big Z Soundwave Widget
+### A widget to display soundwaves on Spotify sites, created using the liquid language , which is a Shopify language combining HTML/CSS and JS
+<img src="https://github.com/mattcar265/Matt-Caraher/assets/98040867/e1f9af17-4418-4971-99f2-e8f1545bac83" width="300">
+
 ## MealGen AI
 ### A web application deployed on EC2, made with a TypeScript MERN stack
 [MealGen AI on Bitbucket](https://bitbucket.org/mealgenapp/meal-gen/src/master/)
