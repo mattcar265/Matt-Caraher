@@ -18,7 +18,7 @@ Although functional, it is not intended for anything outside of personal utility
 
 I formerly gravitated towards UX/UI primarily, and so here is a showcase of a theoretical hero page, were this app to ever be live:
 ![Screenshot 2023-08-17 004626](https://github.com/mattcar265/Matt-Caraher/assets/98040867/6e399c18-f075-466b-9ce5-a0ae2cf96b9b)
-
+<img src="https://github.com/mattcar265/Matt-Caraher/assets/98040867/6e399c18-f075-466b-9ce5-a0ae2cf96b9b" width="500">
 <br><br><br>
 
 ## Other Activities and Skills
