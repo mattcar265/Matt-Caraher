@@ -17,7 +17,8 @@ Liquid is a Shopify language combining HTML/CSS and JS<br><br><br>
 Although functional, it is not intended for anything outside of personal utility right now, so it is not publicly available. I use this frequently to minimize the effort it takes to create meal plans throughout the week. For the sake of learning, it does include profile customization and saving meal plans to that profile.
 
 I formerly gravitated towards UX/UI primarily, and so here is a showcase of a theoretical hero page, were this app to ever be live:
-![Screenshot 2023-08-17 004626](https://github.com/mattcar265/Matt-Caraher/assets/98040867/e8b292f8-2722-4c90-a2f1-0caf0a64b3ec)
+![Screenshot 2023-08-17 004626](https://github.com/mattcar265/Matt-Caraher/assets/98040867/6e399c18-f075-466b-9ce5-a0ae2cf96b9b)
+
 <br><br><br>
 
 ## Other Activities and Skills
