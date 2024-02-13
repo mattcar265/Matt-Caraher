@@ -15,3 +15,8 @@ Liquid is a Shopify language combining HTML/CSS and JS
 <img src="https://github.com/mattcar265/Matt-Caraher/assets/98040867/5acdf402-fd95-481f-bb5d-520b893efa8a" width="300">
 
 Although functional, it is not intended for anything outside of personal utility right now, so it is not publicly available. I use this frequently to minimize the effort it takes to create meal plans throughout the week. For the sake of learning, it does include profile customization and saving meal plans to that profile.
+
+## Other Activities and Skills
+
+### Algorithmic Problem-Solving
+I am also active on LeetCode, where I regularly challenge myself with algorithmic problems. This complements my project work by honing my skills in data structures, algorithms, and efficient code writing. Check out my [LeetCode Profile](https://leetcode.com/mattcaraher20/) for more details.
