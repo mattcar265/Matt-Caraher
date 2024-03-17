@@ -22,5 +22,6 @@ I formerly gravitated towards UX/UI primarily, and so here is a showcase of a th
 
 ## Other Activities and Skills
 
-### Algorithmic Problem-Solving
-I am also active on LeetCode, where I regularly challenge myself with algorithmic problems. This complements my project work by honing my skills in data structures, algorithms, and efficient code writing. Check out my [LeetCode Profile](https://leetcode.com/mattcaraher20/) for more details.
+### Analytics with Python
+A list of labs and assignments completed in python throughout my graduate courses, with a focus on deep learning and AI  
+[LeetCode Profile](https://leetcode.com/mattcaraher20/)
