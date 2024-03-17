@@ -24,4 +24,4 @@ I formerly gravitated towards UX/UI primarily, and so here is a showcase of a th
 
 ### Analytics with Python
 A list of labs and assignments completed in python throughout my graduate courses, with a focus on deep learning and AI  
-[Python work]([https://leetcode.com/mattcaraher20/](https://github.com/mattcar265/Matt-Caraher/tree/main/Python)https://github.com/mattcar265/Matt-Caraher/tree/main/Python)
+[Python work](https://leetcode.com/mattcaraher20/](https://github.com/mattcar265/Matt-Caraher/tree/main/Python)https://github.com/mattcar265/Matt-Caraher/tree/main/Python)
